@@ -1,0 +1,12 @@
+{
+  "name": "Icon.top",
+  "id": "",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figma"],
+  "networkAccess": {
+    "reasoning": "Icon resources",
+    "allowedDomains": ["https://figma.com", "https://raw.githubusercontent.com"]
+  }
+}
