@@ -12,9 +12,9 @@ async function main() {
 
   /**
    * {
-        "path": "assets/lucide",
-        "name": "a-arrow-down.svg",
-        "tags": ["letter", "font size", "text", "formatting", "smaller"]
+        "p": "assets/lucide", // path
+        "n": "a-arrow-down.svg", // name
+        "t": ["letter", "font size", "text", "formatting", "smaller" ] //tag
       }
    */
   await iconFiles.map(async (filePath) => {
@@ -22,9 +22,9 @@ async function main() {
     const file = await fs.readFileSync(filePath, { encoding: "utf-8" });
     const json = JSON.parse(file);
     finalResult.push({
-      path: "assets/lucide",
-      name: name,
-      tags: [...json.tags].concat(json.aliases).filter((v) => !!v),
+      p: "assets/lucide",
+      n: name,
+      t: [...json.tags].concat(json.aliases).filter((v) => !!v),
     });
   });
 
