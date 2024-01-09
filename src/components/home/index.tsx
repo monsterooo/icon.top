@@ -28,9 +28,7 @@ const Home = () => {
     let searchIcons: any = [];
     icons.forEach((icon) => {
       icon?.children?.filter((child: any) => {
-        const tagMatch = child?.tags?.find((tag: any) =>
-          tag.startsWith(search)
-        );
+        const tagMatch = child?.t?.find((tag: any) => tag.startsWith(search));
         if (tagMatch) {
           searchIcons.push(child);
         }
@@ -47,6 +45,8 @@ const Home = () => {
   useEffect(() => {
     fetchIcons();
   }, []);
+
+  console.log("icons:", icons);
 
   return (
     <div className="flex w-screen h-screen flex-col">

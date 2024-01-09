@@ -20,7 +20,7 @@ const AllIcons = ({ icons }: Props) => {
             <AccordionContent>
               <div className="grid grid-cols-icons gap-3">
                 {icon.children.map((child: any) => (
-                  <Icon {...child} key={child.name} />
+                  <Icon {...child} key={child.n} />
                 ))}
               </div>
             </AccordionContent>

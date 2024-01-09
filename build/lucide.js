@@ -18,7 +18,9 @@ async function main() {
       }
    */
   await iconFiles.map(async (filePath) => {
-    const name = path.basename(path.basename(filePath));
+    const name = path.basename(
+      path.basename(filePath).replace(".json", ".svg")
+    );
     const file = await fs.readFileSync(filePath, { encoding: "utf-8" });
     const json = JSON.parse(file);
     finalResult.push({

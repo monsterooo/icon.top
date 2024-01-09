@@ -3,18 +3,18 @@ import { CREATE_SVG } from "../constant";
 import { useEffect, useState, useTransition } from "react";
 
 export type IconProps = {
-  path: string;
-  name: string;
-  tags: string[];
+  p: string;
+  n: string;
+  t: string[];
 };
 
-const Icon = ({ path, name, tags }: IconProps) => {
+const Icon = ({ p, n, t }: IconProps) => {
   const [isPending, startTransition] = useTransition();
   const [icon, setIcon] = useState("");
 
   const fetchIcon = async () => {
     startTransition(() => {
-      fetch(`${process.env.GITHUB}/${path}/${name}`)
+      fetch(`${process.env.GITHUB}/${p}/${n}`)
         .then((reponse) => {
           return reponse.text();
         })
