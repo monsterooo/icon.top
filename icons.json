@@ -12224,5 +12224,67 @@
         "t": ["letter", "font size", "text", "formatting", "smaller"]
       }
     ]
+  },
+  {
+    "name": "Tabler",
+    "children": [
+      {
+        "p": "assets/tabler",
+        "n": "zzz.svg",
+        "t": ["sleep", "sleeping", "bed", "dream", "snooze", "rest"]
+      },
+      {
+        "p": "assets/tabler",
+        "n": "zzz-off.svg",
+        "t": ["sleep", "sleeping", "bed", "dream", "snooze", "rest"]
+      },
+      {
+        "p": "assets/tabler",
+        "n": "zoom-scan.svg",
+        "t": [
+          "magnify",
+          "enlarge",
+          "analyze",
+          "focus",
+          "enhance",
+          "view",
+          "magnification",
+          "zoom-in",
+          "scan-zoom",
+          "magnify-scan"
+        ]
+      },
+      {
+        "p": "assets/tabler",
+        "n": "zoom-reset.svg",
+        "t": ["refresh", "default", "settings", "vision"]
+      },
+      {
+        "p": "assets/tabler",
+        "n": "zoom-replace.svg",
+        "t": ["find", "change", "switch", "swap"]
+      },
+      {
+        "p": "assets/tabler",
+        "n": "zoom-question.svg",
+        "t": ["ask", "help", "support", "cue", "\"?\""]
+      },
+      {
+        "p": "assets/tabler",
+        "n": "zoom-pan.svg",
+        "t": ["enlargement", "shifting", "magnifier"]
+      },
+      { "p": "assets/tabler", "n": "zoom-out.svg", "t": ["magnifying glass"] },
+      {
+        "p": "assets/tabler",
+        "n": "zoom-out-filled.svg",
+        "t": ["magnifying glass"]
+      },
+      {
+        "p": "assets/tabler",
+        "n": "zoom-out-area.svg",
+        "t": ["selected", "square", "magnifier", "diminishing"]
+      }
+    ]
   }
 ]
