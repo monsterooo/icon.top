@@ -35,7 +35,6 @@ const Icon = ({ p, n, t }: IconProps) => {
     fetchIcon();
   }, []);
 
-  console.log("isPending", isPending);
   return (
     <div className="aspect-square relative">
       {isPending ? (

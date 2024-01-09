@@ -56,7 +56,7 @@ const Home = () => {
           placeholder="Please enter the icon description"
         />
       </div>
-      <div className="flex-1 px-4 overflow-y-auto">
+      <div className="flex-1 px-4 pb-4 overflow-y-auto">
         {isPending ? (
           <div className="w-full h-full flex justify-center items-center">
             <div className="flex flex-col justify-center items-center">
