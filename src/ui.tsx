@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import * as ReactDOM from "react-dom/client";
 import "./styles/output.css";
 import { AppProvider } from "./provider/app";
+import Home from "./components/home";
 
 function App() {
   const handleSelection = (data: any) => {
@@ -28,7 +29,9 @@ function App() {
 
   return (
     <AppProvider>
-      <main>app</main>
+      <main>
+        <Home />
+      </main>
     </AppProvider>
   );
 }

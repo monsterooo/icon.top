@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Lucide",
+    "children": [
+      {
+        "path": "assets/lucide",
+        "name": "a-arrow-down.svg",
+        "tags": ["letter", "font size", "text", "formatting", "smaller"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "a-arrow-up.svg",
+        "tags": [
+          "letter",
+          "font size",
+          "text",
+          "formatting",
+          "larger",
+          "bigger"
+        ]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "a-large-small.svg",
+        "tags": ["letter", "font size", "text", "formatting"]
+      }
+    ]
+  }
+]
