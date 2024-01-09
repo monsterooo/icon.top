@@ -23,6 +23,177 @@
         "path": "assets/lucide",
         "name": "a-large-small.svg",
         "tags": ["letter", "font size", "text", "formatting"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "accessibility.svg",
+        "tags": ["disability", "disabled", "dda", "wheelchair"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "activity-square.svg",
+        "tags": [
+          "pulse",
+          "action",
+          "motion",
+          "movement",
+          "exercise",
+          "fitness",
+          "healthcare",
+          "heart rate monitor",
+          "vital signs",
+          "vitals",
+          "emergency room",
+          "er",
+          "intensive care",
+          "hospital",
+          "defibrillator",
+          "earthquake",
+          "siesmic",
+          "magnitude",
+          "richter scale",
+          "aftershock",
+          "tremor",
+          "shockwave",
+          "audio",
+          "waveform",
+          "synthesizer",
+          "synthesiser",
+          "music"
+        ]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "activity.svg",
+        "tags": [
+          "pulse",
+          "action",
+          "motion",
+          "movement",
+          "exercise",
+          "fitness",
+          "healthcare",
+          "heart rate monitor",
+          "vital signs",
+          "vitals",
+          "emergency room",
+          "er",
+          "intensive care",
+          "hospital",
+          "defibrillator",
+          "earthquake",
+          "siesmic",
+          "magnitude",
+          "richter scale",
+          "aftershock",
+          "tremor",
+          "shockwave",
+          "audio",
+          "waveform",
+          "synthesizer",
+          "synthesiser",
+          "music"
+        ]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "air-vent.svg",
+        "tags": [
+          "air conditioner",
+          "ac",
+          "central air",
+          "cooling",
+          "climate-control"
+        ]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "airplay.svg",
+        "tags": ["stream", "cast", "mirroring", "screen", "monitor"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "alarm-clock-check.svg",
+        "tags": ["done", "todo", "tick", "complete", "task", "alarm-check"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "alarm-clock-minus.svg",
+        "tags": ["remove", "alarm-minus"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "alarm-clock-off.svg",
+        "tags": ["morning", "turn-off"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "alarm-clock-plus.svg",
+        "tags": ["add", "alarm-plus"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "alarm-clock.svg",
+        "tags": ["morning"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "alarm-smoke.svg",
+        "tags": [
+          "fire",
+          "alert",
+          "warning",
+          "detector",
+          "carbon monoxide",
+          "safety",
+          "equipment",
+          "amenities"
+        ]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "album.svg",
+        "tags": ["photo", "book"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "alert-circle.svg",
+        "tags": ["warning", "alert", "danger", "exclamation mark"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "alert-octagon.svg",
+        "tags": ["warning", "alert", "danger", "exclamation mark"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "alert-triangle.svg",
+        "tags": ["warning", "alert", "danger", "exclamation mark", "linter"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "align-center-horizontal.svg",
+        "tags": ["items", "flex", "justify"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "align-center-vertical.svg",
+        "tags": ["items", "flex", "justify"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "align-center.svg",
+        "tags": ["text", "alignment", "center"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "align-end-horizontal.svg",
+        "tags": ["items", "bottom", "flex", "justify"]
+      },
+      {
+        "path": "assets/lucide",
+        "name": "align-end-vertical.svg",
+        "tags": ["items", "right", "flex", "justify"]
       }
     ]
   }

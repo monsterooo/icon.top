@@ -58,6 +58,9 @@ module.exports = {
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
       },
+      gridTemplateColumns: {
+        icons: "repeat(auto-fill,minmax(56px,1fr))",
+      },
       keyframes: {
         "accordion-down": {
           from: { height: 0 },

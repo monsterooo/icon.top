@@ -1,9 +1,12 @@
+import { handleMessage } from "./lib/figma";
+
 const TRIAL_NUMBER = "trial_number";
 const TOKEN = "token";
 const supportType = ["RECTANGLE", "ELLIPSE", "POLYGON", "STAR", "VECTOR"];
 
 figma.showUI(__html__, { themeColors: true, height: 500, width: 500 });
 
+figma.ui.onmessage = handleMessage;
 // function getSelection() {
 //   console.log("~~创建svg~~");
 //   figma.createNodeFromSvg(`<svg width="59" height="59" viewBox="0 0 59 59" fill="none" xmlns="http://www.w3.org/2000/svg">
