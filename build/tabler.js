@@ -60,7 +60,7 @@ function matchTags(text) {
       if (match) {
         const categoryValue = match[1].trim();
 
-        return categoryValue
+        return [categoryValue]
       }
     } catch (error) {
       throw Error('Dont match tags: ')
