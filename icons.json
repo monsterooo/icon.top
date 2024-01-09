@@ -12258,11 +12258,7 @@
         "n": "zoom-pan.svg",
         "t": ["enlargement", "shifting", "magnifier"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "zoom-out.svg",
-        "t": ["magnifying glass"]
-      },
+      { "p": "assets/tabler", "n": "zoom-out.svg", "t": ["magnifying glass"] },
       {
         "p": "assets/tabler",
         "n": "zoom-out-area.svg",
@@ -12283,11 +12279,7 @@
           "financial"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "zoom-in.svg",
-        "t": ["magnifying glass"]
-      },
+      { "p": "assets/tabler", "n": "zoom-in.svg", "t": ["magnifying glass"] },
       {
         "p": "assets/tabler",
         "n": "zoom-in-area.svg",
@@ -13026,11 +13018,7 @@
         "n": "versions-off.svg",
         "t": ["app", "variation", "different", "variant", "alternative"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "venus.svg",
-        "t": ["female"]
-      },
+      { "p": "assets/tabler", "n": "venus.svg", "t": ["female"] },
       {
         "p": "assets/tabler",
         "n": "vector.svg",
@@ -13182,11 +13170,7 @@
         "n": "users.svg",
         "t": ["people", "persons", "accounts"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "user.svg",
-        "t": ["person", "account"]
-      },
+      { "p": "assets/tabler", "n": "user.svg", "t": ["person", "account"] },
       {
         "p": "assets/tabler",
         "n": "user-x.svg",
@@ -13211,11 +13195,7 @@
           "role"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "user-off.svg",
-        "t": ["person", "account"]
-      },
+      { "p": "assets/tabler", "n": "user-off.svg", "t": ["person", "account"] },
       {
         "p": "assets/tabler",
         "n": "user-minus.svg",
@@ -13241,16 +13221,8 @@
         "n": "usb.svg",
         "t": ["drive", "cable", "plug", "device", "technology", "connect"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "urgent.svg",
-        "t": ["alert", "important"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "upload.svg",
-        "t": ["file", "arrow"]
-      },
+      { "p": "assets/tabler", "n": "urgent.svg", "t": ["alert", "important"] },
+      { "p": "assets/tabler", "n": "upload.svg", "t": ["file", "arrow"] },
       {
         "p": "assets/tabler",
         "n": "unlink.svg",
@@ -13380,11 +13352,7 @@
         "n": "triangles.svg",
         "t": ["shapes", "figure", "geometry", "geometric", "pyramid", "design"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "triangle.svg",
-        "t": ["delta", "shape"]
-      },
+      { "p": "assets/tabler", "n": "triangle.svg", "t": ["delta", "shape"] },
       {
         "p": "assets/tabler",
         "n": "triangle-square-circle.svg",
@@ -14057,11 +14025,7 @@
         "n": "tex.svg",
         "t": ["file", "document", "type", "format", "filetype"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "test-pipe.svg",
-        "t": ["sample", "color"]
-      },
+      { "p": "assets/tabler", "n": "test-pipe.svg", "t": ["sample", "color"] },
       {
         "p": "assets/tabler",
         "n": "test-pipe-off.svg",
@@ -14242,16 +14206,8 @@
         "n": "tags-off.svg",
         "t": ["label", "price", "shopping", "promotion"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "tag.svg",
-        "t": ["label", "price"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "tag-off.svg",
-        "t": ["label", "price"]
-      },
+      { "p": "assets/tabler", "n": "tag.svg", "t": ["label", "price"] },
+      { "p": "assets/tabler", "n": "tag-off.svg", "t": ["label", "price"] },
       {
         "p": "assets/tabler",
         "n": "table.svg",
@@ -14322,11 +14278,7 @@
         "n": "sword-off.svg",
         "t": ["weapon", "knight", "blade", "war", "minecraft", "warrior"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "switch.svg",
-        "t": ["toggle", "arrows"]
-      },
+      { "p": "assets/tabler", "n": "switch.svg", "t": ["toggle", "arrows"] },
       {
         "p": "assets/tabler",
         "n": "switch-vertical.svg",
@@ -15859,14 +15811,8 @@
           "grocery"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "shopping-cart-x.svg"
-      },
-      {
-        "p": "assets/tabler",
-        "n": "shopping-cart-plus.svg"
-      },
+      { "p": "assets/tabler", "n": "shopping-cart-x.svg" },
+      { "p": "assets/tabler", "n": "shopping-cart-plus.svg" },
       {
         "p": "assets/tabler",
         "n": "shopping-cart-off.svg",
@@ -15882,10 +15828,7 @@
           "grocery"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "shopping-cart-discount.svg"
-      },
+      { "p": "assets/tabler", "n": "shopping-cart-discount.svg" },
       {
         "p": "assets/tabler",
         "n": "shopping-bag.svg",
@@ -16618,11 +16561,7 @@
           "signature"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "rss.svg",
-        "t": ["feed", "subscribe"]
-      },
+      { "p": "assets/tabler", "n": "rss.svg", "t": ["feed", "subscribe"] },
       {
         "p": "assets/tabler",
         "n": "row-insert-top.svg",
@@ -17438,16 +17377,8 @@
         "n": "question-mark.svg",
         "t": ["sign", "symbol", "ask", "sentence", "word", "letters", "\"?\""]
       },
-      {
-        "p": "assets/tabler",
-        "n": "qrcode.svg",
-        "t": ["scan", "data"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "qrcode-off.svg",
-        "t": ["scan", "data"]
-      },
+      { "p": "assets/tabler", "n": "qrcode.svg", "t": ["scan", "data"] },
+      { "p": "assets/tabler", "n": "qrcode-off.svg", "t": ["scan", "data"] },
       {
         "p": "assets/tabler",
         "n": "pyramid.svg",
@@ -17656,16 +17587,8 @@
         "n": "pointer.svg",
         "t": ["cursor", "mouse", "point", "click", "arrow"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "point.svg",
-        "t": ["dot", "label"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "point-off.svg",
-        "t": ["dot", "label"]
-      },
+      { "p": "assets/tabler", "n": "point.svg", "t": ["dot", "label"] },
+      { "p": "assets/tabler", "n": "point-off.svg", "t": ["dot", "label"] },
       {
         "p": "assets/tabler",
         "n": "podium.svg",
@@ -18014,11 +17937,7 @@
           "luggage"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "placeholder.svg",
-        "t": ["input", "form"]
-      },
+      { "p": "assets/tabler", "n": "placeholder.svg", "t": ["input", "form"] },
       {
         "p": "assets/tabler",
         "n": "pizza.svg",
@@ -18932,11 +18851,7 @@
           "contactless"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "news.svg",
-        "t": ["newspaper", "article"]
-      },
+      { "p": "assets/tabler", "n": "news.svg", "t": ["newspaper", "article"] },
       {
         "p": "assets/tabler",
         "n": "news-off.svg",
@@ -19108,11 +19023,7 @@
           "trip"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "moon.svg",
-        "t": ["night", "dark mode"]
-      },
+      { "p": "assets/tabler", "n": "moon.svg", "t": ["night", "dark mode"] },
       {
         "p": "assets/tabler",
         "n": "moon-stars.svg",
@@ -19123,11 +19034,7 @@
         "n": "moon-off.svg",
         "t": ["night", "dark mode"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "moon-2.svg",
-        "t": ["night", "dark mode"]
-      },
+      { "p": "assets/tabler", "n": "moon-2.svg", "t": ["night", "dark mode"] },
       {
         "p": "assets/tabler",
         "n": "mood-xd.svg",
@@ -19308,31 +19215,19 @@
         "n": "moneybag.svg",
         "t": ["finance", "cash", "dollar", "currency", "bank"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "mist.svg",
-        "t": ["weather", "visibility"]
-      },
+      { "p": "assets/tabler", "n": "mist.svg", "t": ["weather", "visibility"] },
       {
         "p": "assets/tabler",
         "n": "mist-off.svg",
         "t": ["weather", "visibility"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "minus.svg",
-        "t": ["subtract", "less"]
-      },
+      { "p": "assets/tabler", "n": "minus.svg", "t": ["subtract", "less"] },
       {
         "p": "assets/tabler",
         "n": "minus-vertical.svg",
         "t": ["subtract", "less", "divide"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "minimize.svg",
-        "t": ["exit", "close"]
-      },
+      { "p": "assets/tabler", "n": "minimize.svg", "t": ["exit", "close"] },
       {
         "p": "assets/tabler",
         "n": "milkshake.svg",
@@ -19624,11 +19519,7 @@
         "n": "medical-cross-off.svg",
         "t": ["sign", "hospital", "help", "indication"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "medal.svg",
-        "t": ["decorate", "uniform"]
-      },
+      { "p": "assets/tabler", "n": "medal.svg", "t": ["decorate", "uniform"] },
       {
         "p": "assets/tabler",
         "n": "medal-2.svg",
@@ -19750,16 +19641,8 @@
         "n": "math-not.svg",
         "t": ["mathematic", "sign", "expression"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "math-min.svg",
-        "t": ["symbol"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "math-max.svg",
-        "t": ["symbol"]
-      },
+      { "p": "assets/tabler", "n": "math-min.svg", "t": ["symbol"] },
+      { "p": "assets/tabler", "n": "math-max.svg", "t": ["symbol"] },
       {
         "p": "assets/tabler",
         "n": "math-lower.svg",
@@ -19810,11 +19693,7 @@
         "n": "math-equal-greater.svg",
         "t": ["mathematic", "than", "more", "equation", "sign"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "math-avg.svg",
-        "t": ["symbol"]
-      },
+      { "p": "assets/tabler", "n": "math-avg.svg", "t": ["symbol"] },
       {
         "p": "assets/tabler",
         "n": "math-1-divide-3.svg",
@@ -19863,11 +19742,7 @@
         "n": "mask-off.svg",
         "t": ["edit", "layer", "mask", "tool", "design"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "mars.svg",
-        "t": ["male"]
-      },
+      { "p": "assets/tabler", "n": "mars.svg", "t": ["male"] },
       {
         "p": "assets/tabler",
         "n": "marquee.svg",
@@ -20263,16 +20138,8 @@
           "agenda"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "link.svg",
-        "t": ["zoom-filled"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "link-off.svg",
-        "t": ["zoom-filled"]
-      },
+      { "p": "assets/tabler", "n": "link.svg", "t": ["zoom-filled"] },
+      { "p": "assets/tabler", "n": "link-off.svg", "t": ["zoom-filled"] },
       {
         "p": "assets/tabler",
         "n": "line.svg",
@@ -20702,11 +20569,7 @@
         "n": "layout-2.svg",
         "t": ["grid", "columns", "masonry", "collage"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "layers-union.svg",
-        "t": ["stack", "join"]
-      },
+      { "p": "assets/tabler", "n": "layers-union.svg", "t": ["stack", "join"] },
       {
         "p": "assets/tabler",
         "n": "layers-subtract.svg",
@@ -22051,10 +21914,7 @@
         "n": "grain.svg",
         "t": ["dots", "pattern", "random", "round", "circle", "nodes"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "gradienter.svg"
-      },
+      { "p": "assets/tabler", "n": "gradienter.svg" },
       {
         "p": "assets/tabler",
         "n": "gps.svg",
@@ -22366,16 +22226,8 @@
         "n": "gavel.svg",
         "t": ["justice", "law", "hammer", "legal", "auction"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "gauge.svg",
-        "t": ["car", "dashboard"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "gauge-off.svg",
-        "t": ["car", "dashboard"]
-      },
+      { "p": "assets/tabler", "n": "gauge.svg", "t": ["car", "dashboard"] },
+      { "p": "assets/tabler", "n": "gauge-off.svg", "t": ["car", "dashboard"] },
       {
         "p": "assets/tabler",
         "n": "gas-station.svg",
@@ -22510,11 +22362,7 @@
         "n": "folder.svg",
         "t": ["cancel", "\"no\"", "directory", "dir"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "folder-x.svg",
-        "t": ["directory", "dir"]
-      },
+      { "p": "assets/tabler", "n": "folder-x.svg", "t": ["directory", "dir"] },
       {
         "p": "assets/tabler",
         "n": "folder-plus.svg",
@@ -22570,26 +22418,10 @@
         "n": "flower-off.svg",
         "t": ["plant", "garden", "rose", "lotus"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "float-right.svg",
-        "t": ["position"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "float-none.svg",
-        "t": ["position"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "float-left.svg",
-        "t": ["position"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "float-center.svg",
-        "t": ["position"]
-      },
+      { "p": "assets/tabler", "n": "float-right.svg", "t": ["position"] },
+      { "p": "assets/tabler", "n": "float-none.svg", "t": ["position"] },
+      { "p": "assets/tabler", "n": "float-left.svg", "t": ["position"] },
+      { "p": "assets/tabler", "n": "float-center.svg", "t": ["position"] },
       {
         "p": "assets/tabler",
         "n": "flip-vertical.svg",
@@ -22766,11 +22598,7 @@
         "n": "files-off.svg",
         "t": ["forms", "documents", "stack", "letter"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "file.svg",
-        "t": ["paper", "new"]
-      },
+      { "p": "assets/tabler", "n": "file.svg", "t": ["paper", "new"] },
       {
         "p": "assets/tabler",
         "n": "file-zip.svg",
@@ -22907,11 +22735,7 @@
         "n": "file-orientation.svg",
         "t": ["document", "arrow", "change", "modify", "page"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "file-off.svg",
-        "t": ["paper", "new"]
-      },
+      { "p": "assets/tabler", "n": "file-off.svg", "t": ["paper", "new"] },
       {
         "p": "assets/tabler",
         "n": "file-music.svg",
@@ -23025,11 +22849,7 @@
         "n": "file-database.svg",
         "t": ["data", "storage", "folder", "format", "server"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "file-code.svg",
-        "t": ["paper", "new"]
-      },
+      { "p": "assets/tabler", "n": "file-code.svg", "t": ["paper", "new"] },
       {
         "p": "assets/tabler",
         "n": "file-code-2.svg",
@@ -23096,11 +22916,7 @@
           "error"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "file-3d.svg",
-        "t": ["model", "document"]
-      },
+      { "p": "assets/tabler", "n": "file-3d.svg", "t": ["model", "document"] },
       {
         "p": "assets/tabler",
         "n": "fidget-spinner.svg",
@@ -23207,21 +23023,13 @@
           "far-sighted"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "eye.svg",
-        "t": ["view", "watch"]
-      },
+      { "p": "assets/tabler", "n": "eye.svg", "t": ["view", "watch"] },
       {
         "p": "assets/tabler",
         "n": "eye-table.svg",
         "t": ["vision", "sight", "text", "ophthalmology", "disease"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "eye-off.svg",
-        "t": ["view", "watch"]
-      },
+      { "p": "assets/tabler", "n": "eye-off.svg", "t": ["view", "watch"] },
       {
         "p": "assets/tabler",
         "n": "eye-check.svg",
@@ -23536,16 +23344,8 @@
         "n": "drag-drop-2.svg",
         "t": ["location", "gesture", "move"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "download.svg",
-        "t": ["save", "arrow"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "download-off.svg",
-        "t": ["save", "arrow"]
-      },
+      { "p": "assets/tabler", "n": "download.svg", "t": ["save", "arrow"] },
+      { "p": "assets/tabler", "n": "download-off.svg", "t": ["save", "arrow"] },
       {
         "p": "assets/tabler",
         "n": "dots.svg",
@@ -23724,11 +23524,7 @@
           "bargain"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "disc.svg",
-        "t": ["cd", "music", "album"]
-      },
+      { "p": "assets/tabler", "n": "disc.svg", "t": ["cd", "music", "album"] },
       {
         "p": "assets/tabler",
         "n": "disc-off.svg",
@@ -24311,16 +24107,8 @@
         "n": "database-export.svg",
         "t": ["data", "backup", "file", "storage", "system"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "dashboard.svg",
-        "t": ["home", "car"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "dashboard-off.svg",
-        "t": ["home", "car"]
-      },
+      { "p": "assets/tabler", "n": "dashboard.svg", "t": ["home", "car"] },
+      { "p": "assets/tabler", "n": "dashboard-off.svg", "t": ["home", "car"] },
       {
         "p": "assets/tabler",
         "n": "cylinder.svg",
@@ -24923,11 +24711,7 @@
         "n": "cross-off.svg",
         "t": ["prayer", "church", "catholic", "jezus", "religion"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "crop.svg",
-        "t": ["photo", "image"]
-      },
+      { "p": "assets/tabler", "n": "crop.svg", "t": ["photo", "image"] },
       {
         "p": "assets/tabler",
         "n": "cricket.svg",
@@ -25464,16 +25248,8 @@
         "n": "clover-2.svg",
         "t": ["luck", "leaf", "patrick", "irleand", "irish"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "cloud.svg",
-        "t": ["weather", "online"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "cloud-upload.svg",
-        "t": ["files"]
-      },
+      { "p": "assets/tabler", "n": "cloud.svg", "t": ["weather", "online"] },
+      { "p": "assets/tabler", "n": "cloud-upload.svg", "t": ["files"] },
       {
         "p": "assets/tabler",
         "n": "cloud-storm.svg",
@@ -25484,11 +25260,7 @@
         "n": "cloud-snow.svg",
         "t": ["weather", "blizzard"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "cloud-rain.svg",
-        "t": ["weather", "dry"]
-      },
+      { "p": "assets/tabler", "n": "cloud-rain.svg", "t": ["weather", "dry"] },
       {
         "p": "assets/tabler",
         "n": "cloud-off.svg",
@@ -25509,11 +25281,7 @@
         "n": "cloud-fog.svg",
         "t": ["weather", "online"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "cloud-download.svg",
-        "t": ["files"]
-      },
+      { "p": "assets/tabler", "n": "cloud-download.svg", "t": ["files"] },
       {
         "p": "assets/tabler",
         "n": "cloud-data-connection.svg",
@@ -25656,11 +25424,7 @@
           "blank"
         ]
       },
-      {
-        "p": "assets/tabler",
-        "n": "clipboard-x.svg",
-        "t": ["copy", "\"no\""]
-      },
+      { "p": "assets/tabler", "n": "clipboard-x.svg", "t": ["copy", "\"no\""] },
       {
         "p": "assets/tabler",
         "n": "clipboard-typography.svg",
@@ -25718,11 +25482,7 @@
         "n": "clipboard-check.svg",
         "t": ["copy", "\"yes\""]
       },
-      {
-        "p": "assets/tabler",
-        "n": "click.svg",
-        "t": ["select", "cursor"]
-      },
+      { "p": "assets/tabler", "n": "click.svg", "t": ["select", "cursor"] },
       {
         "p": "assets/tabler",
         "n": "clear-formatting.svg",
@@ -25838,16 +25598,8 @@
         "n": "circles-relation.svg",
         "t": ["connection", "link", "shape", "hyperlink"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "circle.svg",
-        "t": ["off", "zero"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "circle-x.svg",
-        "t": ["cancel", "\"no\""]
-      },
+      { "p": "assets/tabler", "n": "circle.svg", "t": ["off", "zero"] },
+      { "p": "assets/tabler", "n": "circle-x.svg", "t": ["cancel", "\"no\""] },
       {
         "p": "assets/tabler",
         "n": "circle-triangle.svg",
@@ -25873,11 +25625,7 @@
         "n": "circle-plus.svg",
         "t": ["add", "create", "new"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "circle-off.svg",
-        "t": ["off", "zero"]
-      },
+      { "p": "assets/tabler", "n": "circle-off.svg", "t": ["off", "zero"] },
       {
         "p": "assets/tabler",
         "n": "circle-number-9.svg",
@@ -26311,11 +26059,7 @@
         "n": "chisel.svg",
         "t": ["tool", "equipment", "work", "wood"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "chevrons-up.svg",
-        "t": ["move", "top"]
-      },
+      { "p": "assets/tabler", "n": "chevrons-up.svg", "t": ["move", "top"] },
       {
         "p": "assets/tabler",
         "n": "chevrons-up-right.svg",
@@ -26351,11 +26095,7 @@
         "n": "chevrons-down-left.svg",
         "t": ["move", "aside", "bottom"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "chevron-up.svg",
-        "t": ["move", "top"]
-      },
+      { "p": "assets/tabler", "n": "chevron-up.svg", "t": ["move", "top"] },
       {
         "p": "assets/tabler",
         "n": "chevron-up-right.svg",
@@ -28455,11 +28195,7 @@
         "n": "brand-reddit.svg",
         "t": ["logo", "website", "information", "link", "internet"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "brand-reason.svg",
-        "t": "Brand"
-      },
+      { "p": "assets/tabler", "n": "brand-reason.svg", "t": ["Brand"] },
       {
         "p": "assets/tabler",
         "n": "brand-react.svg",
@@ -28514,11 +28250,7 @@
         "n": "brand-powershell.svg",
         "t": ["microsoft", "command", "interpreter", "software", "opensource"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "brand-polymer.svg",
-        "t": "Brand"
-      },
+      { "p": "assets/tabler", "n": "brand-polymer.svg", "t": ["Brand"] },
       {
         "p": "assets/tabler",
         "n": "brand-pocket.svg",
@@ -28750,11 +28482,7 @@
         "n": "brand-mixpanel.svg",
         "t": ["analytics", "buisness", "software", "application"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "brand-miniprogram.svg",
-        "t": "Brand"
-      },
+      { "p": "assets/tabler", "n": "brand-miniprogram.svg", "t": ["Brand"] },
       {
         "p": "assets/tabler",
         "n": "brand-meta.svg",
@@ -29539,11 +29267,7 @@
         "n": "brand-cashapp.svg",
         "t": ["payment", "finance", "mobile", "app", "money", "transfer"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "brand-carbon.svg",
-        "t": "Brand"
-      },
+      { "p": "assets/tabler", "n": "brand-carbon.svg", "t": ["Brand"] },
       {
         "p": "assets/tabler",
         "n": "brand-campaignmonitor.svg",
@@ -29745,11 +29469,7 @@
         "n": "brand-android.svg",
         "t": ["os", "company", "system", "interface", "software", "logo"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "brand-amigo.svg",
-        "t": "Brand"
-      },
+      { "p": "assets/tabler", "n": "brand-amigo.svg", "t": ["Brand"] },
       {
         "p": "assets/tabler",
         "n": "brand-amd.svg",
@@ -30219,11 +29939,7 @@
         "n": "border-outer.svg",
         "t": ["table", "side", "line"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "border-none.svg",
-        "t": ["table"]
-      },
+      { "p": "assets/tabler", "n": "border-none.svg", "t": ["table"] },
       {
         "p": "assets/tabler",
         "n": "border-left.svg",
@@ -30446,11 +30162,7 @@
         "n": "biohazard-off.svg",
         "t": ["danger", "radioactive", "toxic", "microbe", "virus", "biotoxin"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "binary.svg",
-        "t": ["binary"]
-      },
+      { "p": "assets/tabler", "n": "binary.svg", "t": ["binary"] },
       {
         "p": "assets/tabler",
         "n": "binary-tree.svg",
@@ -30461,11 +30173,7 @@
         "n": "binary-tree-2.svg",
         "t": ["data", "diversity", "it", "math"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "binary-off.svg",
-        "t": ["binary"]
-      },
+      { "p": "assets/tabler", "n": "binary-off.svg", "t": ["binary"] },
       {
         "p": "assets/tabler",
         "n": "bike.svg",
@@ -30903,16 +30611,8 @@
         "n": "baby-bottle.svg",
         "t": ["kid", "milk", "child", "food", "drink", "feeding"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "axis-y.svg",
-        "t": ["math", "geometry"]
-      },
-      {
-        "p": "assets/tabler",
-        "n": "axis-x.svg",
-        "t": ["math", "geometry"]
-      },
+      { "p": "assets/tabler", "n": "axis-y.svg", "t": ["math", "geometry"] },
+      { "p": "assets/tabler", "n": "axis-x.svg", "t": ["math", "geometry"] },
       {
         "p": "assets/tabler",
         "n": "axe.svg",
@@ -31284,11 +30984,7 @@
         "n": "arrow-wave-left-down.svg",
         "t": ["direction", "south"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "arrow-up.svg",
-        "t": ["top", "point"]
-      },
+      { "p": "assets/tabler", "n": "arrow-up.svg", "t": ["top", "point"] },
       {
         "p": "assets/tabler",
         "n": "arrow-up-tail.svg",
@@ -31729,11 +31425,7 @@
         "n": "arrow-bear-left-2.svg",
         "t": ["direction", "north"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "arrow-bar-up.svg",
-        "t": ["drag", "move"]
-      },
+      { "p": "assets/tabler", "n": "arrow-bar-up.svg", "t": ["drag", "move"] },
       {
         "p": "assets/tabler",
         "n": "arrow-bar-to-up.svg",
@@ -32288,11 +31980,7 @@
         "n": "abacus-off.svg",
         "t": ["abacus", "math", "counting", "adding up"]
       },
-      {
-        "p": "assets/tabler",
-        "n": "a-b.svg",
-        "t": ["test", "visual", "user"]
-      },
+      { "p": "assets/tabler", "n": "a-b.svg", "t": ["test", "visual", "user"] },
       {
         "p": "assets/tabler",
         "n": "a-b-off.svg",
