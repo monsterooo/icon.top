@@ -7,8 +7,8 @@ type Props = {
 const SearchIcons = (props: Props) => {
   return (
     <div className="grid grid-cols-icons gap-3">
-      {props.icons?.map((child: any) => (
-        <Icon {...child} key={child.n} />
+      {props.icons?.map((child: any, key: number) => (
+        <Icon {...child} key={key} />
       ))}
     </div>
   );

@@ -1,5 +1,5 @@
 /*
-! tailwindcss v3.4.0 | MIT License | https://tailwindcss.com
+! tailwindcss v3.4.1 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -634,6 +634,11 @@ a {
   z-index: 50;
 }
 
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .mt-2 {
   margin-top: 0.5rem;
 }
@@ -858,6 +863,10 @@ a {
   border-width: 1px;
 }
 
+.border-0 {
+  border-width: 0px;
+}
+
 .border-2 {
   border-width: 2px;
 }
@@ -901,6 +910,10 @@ a {
 .bg-slate-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(241 245 249 / var(--tw-bg-opacity));
+}
+
+.p-2 {
+  padding: 0.5rem;
 }
 
 .p-4 {
@@ -956,6 +969,11 @@ a {
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
 }
 
 .font-medium {
@@ -1064,6 +1082,10 @@ a {
 
 .duration-200 {
   animation-duration: 200ms;
+}
+
+.running {
+  animation-play-state: running;
 }
 
 .file\:border-0::file-selector-button {
@@ -1287,6 +1309,12 @@ a {
 
   .sm\:text-left {
     text-align: left;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:w-\[70\%\] {
+    width: 70%;
   }
 }
 

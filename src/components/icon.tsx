@@ -1,4 +1,5 @@
 import { Loader2 } from "lucide-react";
+import { fetchQueue } from "../lib/fetch-queue";
 import { CREATE_SVG } from "../constant";
 import { useEffect, useState, useTransition } from "react";
 
@@ -14,16 +15,29 @@ const Icon = ({ p, n, t }: IconProps) => {
 
   const fetchIcon = async () => {
     startTransition(() => {
-      fetch(`${process.env.GITHUB}/${p}/${n}`)
-        .then((reponse) => {
+      fetchQueue(`${process.env.GITHUB}/${p}/${n}`, {}, "icons", {
+        concurrent: 20,
+      })
+        .then((reponse: any) => {
           return reponse.text();
         })
-        .then((svg) => {
+        .then((svg: any) => {
           setIcon(svg);
         })
         .catch((error: any) => {
           console.error(error);
         });
+
+      // fetch(`${process.env.GITHUB}/${p}/${n}`)
+      //   .then((reponse) => {
+      //     return reponse.text();
+      //   })
+      //   .then((svg) => {
+      //     setIcon(svg);
+      //   })
+      //   .catch((error: any) => {
+      //     console.error(error);
+      //   });
     });
   };
 

@@ -46,8 +46,6 @@ const Home = () => {
     fetchIcons();
   }, []);
 
-  console.log("icons:", icons);
-
   return (
     <div className="flex w-screen h-screen flex-col">
       <div className="p-4">
